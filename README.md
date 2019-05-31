@@ -1,4 +1,6 @@
 # tic - time interval counts and statistics
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbrayniac%2Ftic.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbrayniac%2Ftic?ref=badge_shield)
+
 a high-performance stats library focused on rates and latencies from timestamped events
 
 [![conduct-badge][]][conduct] [![travis-badge][]][travis] [![downloads-badge][] ![release-badge][]][crate] [![license-badge][]](#license)
@@ -49,6 +51,9 @@ Licensed under either of
  * MIT license ([LICENSE-MIT](LICENSE-MIT) or http://opensource.org/licenses/MIT)
 
 at your option.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbrayniac%2Ftic.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbrayniac%2Ftic?ref=badge_large)
 
 ### Contribution
 
